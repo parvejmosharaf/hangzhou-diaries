@@ -8,7 +8,7 @@ var firebaseConfig = {
     projectId: "ninja-firegram-1b073",
     storageBucket: "ninja-firegram-1b073.appspot.com",
     messagingSenderId: "529458447246",
-    appId: "1:529458447246:web:58f5efbae039f3922b9adf"
+    appId: "1:529458447246:web:58f5efbae039f3922b9adf" 
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
