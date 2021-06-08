@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hangzhou-diaries/static/css/main.ad027ea3.chunk.css",
+    "main.js": "/hangzhou-diaries/static/js/main.e8adf7b3.chunk.js",
+    "main.js.map": "/hangzhou-diaries/static/js/main.e8adf7b3.chunk.js.map",
+    "runtime-main.js": "/hangzhou-diaries/static/js/runtime-main.b4146312.js",
+    "runtime-main.js.map": "/hangzhou-diaries/static/js/runtime-main.b4146312.js.map",
+    "static/js/2.2fee7bce.chunk.js": "/hangzhou-diaries/static/js/2.2fee7bce.chunk.js",
+    "static/js/2.2fee7bce.chunk.js.map": "/hangzhou-diaries/static/js/2.2fee7bce.chunk.js.map",
+    "index.html": "/hangzhou-diaries/index.html",
+    "precache-manifest.86df69ab4eb346d0e95bf72a19737885.js": "/hangzhou-diaries/precache-manifest.86df69ab4eb346d0e95bf72a19737885.js",
+    "service-worker.js": "/hangzhou-diaries/service-worker.js",
+    "static/css/main.ad027ea3.chunk.css.map": "/hangzhou-diaries/static/css/main.ad027ea3.chunk.css.map",
+    "static/js/2.2fee7bce.chunk.js.LICENSE.txt": "/hangzhou-diaries/static/js/2.2fee7bce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4146312.js",
+    "static/js/2.2fee7bce.chunk.js",
+    "static/css/main.ad027ea3.chunk.css",
+    "static/js/main.e8adf7b3.chunk.js"
+  ]
+}
